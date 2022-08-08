@@ -1,0 +1,26 @@
+.card--container{
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.card--container:hover {
+    background-color:aqua;
+}
+
+.card--title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card--cost {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.card--category {
+    margin-top: 5px;
+}
